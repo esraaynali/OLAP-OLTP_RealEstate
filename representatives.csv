@@ -1,0 +1,12 @@
+rep_id,supervisor_id,first_name,last_name,email,hire_date,dob,gender
+1,6.0,Esra,Aynali,eaynali@myhomes.com,2022-01-17,1992-04-23,F
+2,8.0,Parto,Bamford,pbamford@myhomes.com,2002-05-01,1986-12-01,M
+3,7.0,John,Green,jgreen@myhomes.com,2000-05-14,1988-07-23,M
+4,8.0,Alex,Turner,aturner@myhomes.com,2008-01-27,1990-06-05,M
+5,9.0,Eva,Doe,edoe@myhomes.com,2021-04-23,1984-03-04,F
+6,,Bezalel,Simmel,bsimmel@myhomes.com,1985-11-21,1964-06-02,F
+7,,Anneke,Preu,apreu@myhomes.com,1989-06-02,1953-04-20,F
+8,,Georgi,Facello,gfacello@myhomes.com,1986-06-26,1953-09-02,M
+9,,Susan,Doyle,sdoyle@myhomes.com,2000-04-06,1970-03-06,F
+10,,Bill,Joe,bjoe@myhomes.com,1999-06-05,1968-01-08,M
+11,10.0,Kemal,Araz,karaz@myhomes.com,2021-07-05,1991-05-29,M
